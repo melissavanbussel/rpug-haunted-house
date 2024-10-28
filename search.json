@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haunted House",
+    "section": "",
+    "text": "This is my solution to the R/Python User Group coding challenge for the Halloween Haunted House.\nI really just used this as an excuse to learn how to use and make Quarto extensions, if I’m being honest."
+  },
+  {
+    "objectID": "index.html#enter-the-haunted-house",
+    "href": "index.html#enter-the-haunted-house",
+    "title": "Haunted House",
+    "section": "Enter the haunted house",
+    "text": "Enter the haunted house\nThink you’re brave enough to enter the haunted house? Before you can get in, you’ll need to solve the riddle below…\nIf you get it right, you’ll be able to enter (if you dare). But beware, this haunted house is not too forgiving to trespassers who have no business being here…"
+  },
+  {
+    "objectID": "index.html#instructions",
+    "href": "index.html#instructions",
+    "title": "Haunted House",
+    "section": "Instructions:",
+    "text": "Instructions:\n\nSolve the riddle on the page.\nWhen you think you know the answer, modify the code below with your guess.\nClick on “Run code”.\nClick on one of the two pug buttons, based on the output from the code cell.\nIf your guess was correct, you’ll be told the correct pug to click on. If your answer was incorrect, you’ll be misled…\n\nRiddle: What month does Halloween take place in?\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "room2.html",
+    "href": "room2.html",
+    "title": "You’ve entered Room 2",
+    "section": "",
+    "text": "You made it into Room 2. Congratulations!…I guess.\nFor all that hard work, you’ve won yourself a prize: 4 more riddles to solve!\nRiddle to enter Room 2: The Other Mother offered me a chance to stay in the Other World forever, if only buttons can be sewn into my eyes.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "lost.html",
+    "href": "lost.html",
+    "title": "Haunted House",
+    "section": "",
+    "text": "Uh oh...\n \nYou unfortunately got the answer incorrect.\nNow you have to keep scrolling to find out what happens…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n…\n\nReturn to the top!\n\nIdeas “Scariest” page by making it really ugly and ridiculous:\n\nMusic that you can’t turn off\nReally ugly animation\nReally ugly CSS (including comic sans and ugly colours)"
+  },
+  {
+    "objectID": "room4.html",
+    "href": "room4.html",
+    "title": "You’ve entered Room 4",
+    "section": "",
+    "text": "You made it into Room 4. Congratulations!…I guess.\nFor all that hard work, you’ve won yourself a prize: 2 more riddles to solve!\nRiddle to enter Room 5: I’m Jack Skellington’s enemy, and I wear a burlap sack.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "r1b5w8y9k1j2.html",
+    "href": "r1b5w8y9k1j2.html",
+    "title": "You’ve entered the haunted house",
+    "section": "",
+    "text": "You made it into Room 1. Congratulations!…I guess.\nFor all that hard work, you’ve won yourself a prize: 5 more riddles to solve!\nRiddle to enter Room 1: I’m a leading bio-exorcist. If you say my name three times, I’ll appear.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "room3.html",
+    "href": "room3.html",
+    "title": "You’ve entered Room 3",
+    "section": "",
+    "text": "You made it into Room 3. Congratulations!…I guess.\nFor all that hard work, you’ve won yourself a prize: 3 more riddles to solve!\nRiddle to enter Room 3: I’m a barber, with a barbershop on Fleet Street.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "room5.html",
+    "href": "room5.html",
+    "title": "You’ve entered Room 5",
+    "section": "",
+    "text": "You made it into Room 5. Congratulations!…I guess.\nFor all that hard work, you’ve won yourself a prize: 1 more riddles to solve!\nRiddle to exit the haunted house: I’m probably the friendliest ghost you’ll ever meet.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
+  }
+]
