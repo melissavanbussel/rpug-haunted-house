@@ -365,7 +365,7 @@ globalThis.qwebrCustomizedWebROptions = {
 };
 
 // Store cell data
-globalThis.qwebrCellDetails = [{"code":"correct_answer <- \"October\"\nnext_instruction <- \"Click on the left pug\"\nerror_message <- \"Click on the right pug\"","id":1,"options":{"out-height":"","editor-quick-suggestions":"false","dpi":72,"autorun":"true","label":"unnamed-chunk-1","output":"true","out-width":"700px","fig-cap":"","editor-max-height":"","comment":"","fig-width":7,"context":"setup","warning":"true","results":"markup","message":"true","editor-font-scale":"1","fig-height":5,"classes":"","read-only":"false","editor-word-wrap":"true"}},{"code":"# Modify the `my_guess` variable below with your answer, then click \"Run code\"\nmy_guess <- \"Your answer to the riddle goes here\"\n\n# You'll never know which one you're getting...mwahaha!\nif (my_guess == correct_answer) {\n  print(next_instruction)\n} else {\n  print(error_message)\n}","id":2,"options":{"out-height":"","editor-quick-suggestions":"false","dpi":72,"autorun":"false","label":"unnamed-chunk-2","output":"true","out-width":"700px","fig-cap":"","editor-max-height":"","comment":"","fig-width":7,"context":"interactive","warning":"true","results":"markup","message":"true","editor-font-scale":"1","fig-height":5,"classes":"","read-only":"false","editor-word-wrap":"true"}}];
+globalThis.qwebrCellDetails = [{"options":{"message":"true","output":"true","comment":"","dpi":72,"context":"setup","editor-font-scale":"1","warning":"true","read-only":"false","autorun":"true","editor-quick-suggestions":"false","out-height":"","fig-cap":"","results":"markup","editor-word-wrap":"true","classes":"","label":"unnamed-chunk-1","fig-height":5,"fig-width":7,"editor-max-height":"","out-width":"700px"},"code":"correct_answer <- \"October\"\nnext_instruction <- \"Click on the left pug\"\nerror_message <- \"Click on the right pug\"","id":1},{"options":{"message":"true","output":"true","comment":"","dpi":72,"context":"interactive","editor-font-scale":"1","warning":"true","read-only":"false","autorun":"false","editor-quick-suggestions":"false","out-height":"","fig-cap":"","results":"markup","editor-word-wrap":"true","classes":"","label":"unnamed-chunk-2","fig-height":5,"fig-width":7,"editor-max-height":"","out-width":"700px"},"code":"# Modify the `my_guess` variable below with your answer, then click \"Run code\"\nmy_guess <- \"Your answer to the riddle goes here\"\n\n# You'll never know which one you're getting...mwahaha!\nif (my_guess == correct_answer) {\n  print(next_instruction)\n} else {\n  print(error_message)\n}","id":2}];
 
 </script>
 <script type="module">
@@ -1976,7 +1976,7 @@ globalThis.qwebrCreateMonacoEditorInstance = function (cellData) {
     display: inline-block;
   }
 </style>
-<p><a href="https://melissavanbussel.github.io/haunted-house/r1b5w8y9k1j2.html"> <button class="image-button"> <img src="assets/R-PUG.png" height="200"> </button> </a> <a href="https://melissavanbussel.github.io/haunted-house/lost.html"> <button class="image-button"> <img src="assets/R-PUG.png" height="200"> </button> </a></p>
+<p><a href="https://melissavanbussel.github.io/rpug-haunted-house/r1b5w8y9k1j2.html"> <button class="image-button"> <img src="assets/R-PUG.png" height="200"> </button> </a> <a href="https://melissavanbussel.github.io/rpug-haunted-house/p0v2a3q1u4i5.html"> <button class="image-button"> <img src="assets/R-PUG.png" height="200"> </button> </a></p>
 
 
 </section>
@@ -2074,7 +2074,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/melissavanbussel\.github\.io\/rpug-haunted-house\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
